@@ -1,0 +1,65 @@
+.container-size {
+  height: 580px;
+  background-image: url("https://s-media-cache-ak0.pinimg.com/564x/98/cf/1d/98cf1d959203c334f51034c294801a2b.jpg");
+  opacity: 0.7;
+}
+.nav-tabs{
+  border :none;
+  margin-top:50px;
+  font-size: 22px;
+}
+.nav-tabs li.active {
+  background: none;
+  color:white;
+}
+.label {
+  color:white;
+  font-size:10px;
+  font-family: sans-serif;
+}
+.input {
+  margin : 0 auto;
+  padding: 20px;
+  border-radius: 20px;
+  border:none;
+  opacity: 0.5;
+  width :100%;
+  height: 30px;
+  margin-bottom: 20px;
+
+}
+.tab-content {
+  margin-top: 20px;
+}
+.btn-size {
+  margin-top: 20px;
+  border-radius: 20px;
+  width: 100%;
+}
+
+.container-size .nav-tabs>li.active>a, .container-size .nav-tabs>li.active>a:focus, .container-size .nav-tabs>li.active>a:hover {
+background-color: transparent;
+border:none;
+border-bottom: 2px solid blue;
+color:white;
+
+}
+.nav>li>a:focus, .nav>li>a:hover {
+    background-color: transparent;
+    border:none;
+}
+.hr-line {
+  margin-top:60px;
+}
+.forget-password {
+width:100%;
+text-align:center;
+color:white;
+}
+.forget-password-color {
+  color:white;
+}
+.check {
+  background-color: blue;
+  color:white;
+}
